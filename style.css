@@ -47,8 +47,8 @@ body {
     font-size: 1.18rem;
     line-height: 1.6;
 }
-.hero-inner img {
-    padding: 0 35px 0 35px;
+.img {
+    align-content: center;
 }
 .footer-site {
     padding-top: 0;
