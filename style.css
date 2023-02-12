@@ -49,9 +49,6 @@ body {
 }
 .image {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
   }
 .footer-site {
     padding-top: 0;
